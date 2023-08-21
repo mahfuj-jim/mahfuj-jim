@@ -7,18 +7,6 @@ Mahfuj Ahmed Jim</a></h1>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+My+GitHub+Profile..&hearts;++;Full+Stack+Developer,;Mobile+Application+Developer,;Computer+Science+and+Engineering+Graduate,;MERN+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-- 🔭 I’m currently working in <a href="https://bjitacademy.com/" target="blank">BJIT Academy</a> as Software Engineer (Trainee).
-
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning MERN Stack <a href="" target="blank">Youth Skill Development</a>
-
-- 💬 Ask me about **Reactjs, Node.js & Flutter**
-
-- 📫 How to reach me **mahfuj.jim2@gmail.com**
-
-- 📄 Know about my experiences <a href="https://mahfuj-jim.github.io/" target="_blank">Resume</a>
-
 <br>
 
 ## 👨🏽‍💻 What I'm currently up to
@@ -40,7 +28,7 @@ Beyond coding, I'm a culinary explorer and photography enthusiast. As a devoted 
 <a href="https://www.linkedin.com/in/mahfuj-ahmed-jim-108771204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahfuj-ahmed-jim" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mahfuj.ahmed.jim.7712/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahfuj-ahmed-jim" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mahfuj_ahmedjim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahfuj-ahmed-jim" height="30" width="40" /></a>
-<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mahfuj-ahmed-jim" height="30" width="40" /></a>
+<a href="https://mahfuj-jim.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="mahfuj-ahmed-jim" height="30" /></a>
 </p>
 
 <br/>
@@ -108,51 +96,46 @@ As a Mobile App Developer at Accelerating Intelligence, led impactful projects i
 
 <br>
 
-## 🌟 Project
-<h3 style="font-size: 30;">1. Khaben Naki</h3>
+## 🌟 Projects
 
-<div style="display: flex;">
+### 🍔 Khaben Naki 🍕
+<div style="display: flex; margin-top: 20px; margin-bottom: 30px">
   <img src="https://user-images.githubusercontent.com/76824955/208396559-9054c9a9-6bbb-406e-85ec-1b6bd2ed2b78.jpg" alt="Screenshot 1" height="350px" style="margin-right: 20px;">
   <img src="https://user-images.githubusercontent.com/76824955/208396570-b9c563f8-e5a4-4f97-a01b-1103d953982c.jpg" alt="Screenshot 2" height="350px" style="margin-right: 20px;">
   <img src="https://user-images.githubusercontent.com/76824955/208396574-8c04da34-bff2-4895-be87-290a5378daf4.jpg" alt="Screenshot 3" height="350px" style="margin-right: 20px;">
   <img src="https://user-images.githubusercontent.com/76824955/208396581-df7ff8be-878f-4059-865a-c72f1f8923a2.jpg" alt="Screenshot 4" height="350px">
 </div>
 
-<br>
+🌮 An innovative online food ordering platform connecting users with nearby restaurants. Comprising four components:
 
-🍔 An innovative online food ordering platform connecting users with nearby restaurants. Comprising four components:
+- 🍽️ **Foodies App:** Order food, review items/restaurants/delivery personnel, and track orders in real-time.
+- 🚴‍♂️ **Riders App:** Enable efficient delivery by seamless order handling.
+- 🏢 **Restaurant Website:** Empower restaurant owners to manage orders, sales, and showcase offerings.
+- 📊 **Admin Dashboard:** Oversee system, orders, and monitor restaurant performance.
 
-- **Foodies App:** Order food, review items/restaurants/delivery personnel, and track orders in real-time.
-- **Riders App:** Enable efficient delivery by seamless order handling.
-- **Restaurant Website:** Empower restaurant owners to manage orders, sales, and showcase offerings.
-- **Admin Dashboard:** Oversee system, orders, and monitor restaurant performance.
-
-**Key Features:**
+🔑 **Key Features:**
 Seamless food ordering, Reviews for items/restaurants/delivery personnel, Live order tracking, Restaurant/food search, Order history, Real-time sales tracking for restaurant owners
 
-<br> 
+<br>
 
-<h3 style="font-size: 30px;">2. Bill Splitter</h3>
-
-<div style="display: flex;">
+### 💰 Bill Splitter 💸
+<div style="display: flex; margin-top: 20px; margin-bottom: 30px"">
   <img src="https://user-images.githubusercontent.com/76824955/208351593-3ae8f996-42e3-4413-8e0b-690e582559d2.png" alt="Bill Splitter Screenshot 1" height="350px" style="margin-right: 20px;">
   <img src="https://user-images.githubusercontent.com/76824955/208351595-b2dd5576-f0c4-4d8d-86b9-30f38d126424.png" alt="Bill Splitter Screenshot 2" height="350px" style="margin-right: 20px;">
   <img src="https://user-images.githubusercontent.com/76824955/208351597-b21c2362-2732-49de-90b6-cbab68c04117.png" alt="Bill Splitter Screenshot 3" height="350px" style="margin-right: 20px;">
   <img src="https://user-images.githubusercontent.com/76824955/208351600-3e109bfe-f50e-4372-8ff9-e2902fcca8dd.png" alt="Bill Splitter Screenshot 4" height="350px">
 </div>
 
-<br> 
+💡 An application that tracks, manages, and splits bills among friends, housemates, and groups. Features include:
 
-An application that tracks, manages, and splits bills among friends, housemates, and groups. Features include:
+- 💸 Split total bill among a group or two people
+- 📅 History of bills with details
+- ⏰ Due payment reminders
+- 📊 Monthly transaction tracking
 
-- Split total bill among a group or two people
-- History of bills with details
-- Due payment reminders
-- Monthly transaction tracking
+<br>
 
-<br> 
-
-#### Explore more projects on my GitHub repositories.
+#### 🔍 Explore more projects on my GitHub repositories.
 
 <br> 
 
