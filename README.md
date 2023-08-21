@@ -92,23 +92,19 @@ Beyond coding, I'm a culinary explorer and photography enthusiast. As a devoted 
 
 ## 💻 Work Experience
 
-### BJIT Academy, Trainee Software Engineer
+### 👨‍💻 BJIT Academy, Trainee Software Engineer
 *August 2023 - Present*
 
-Currently training as a Full Stack Developer at BJIT Academy. Eager to expand MERN Stack expertise by applying tools to tackle tasks effectively and gain hands-on experience. Focused on continuous learning and skill enhancement.
+Training as a Full Stack Developer at BJIT Academy. Eager to expand MERN Stack expertise by applying tools to tackle tasks effectively and gain hands-on experience. Focused on continuous learning and skill enhancement. 🚀
 
-#### Technologies Used
-Html, CSS, JavaScript,  MongoDB, Express.js, React, and Node.js.
+**Technologies Used:** HTML, CSS, JavaScript, MongoDB, Express.js, React, Node.js.
 
-<br>
-
-### Accelerating Intelligence, Mobile App Developer
+### 📱 Accelerating Intelligence, Mobile App Developer
 *August 2021 - July 2022*
 
-As a Mobile App Developer at Accelerating Intelligence, I led mobile development projects, collaborating with diverse teams to create impactful applications. Notably, I contributed significantly to "Daktar Lagbe," a pioneering telemedicine app. I skillfully utilized Android Studio, Java, Kotlin, Flutter, Retrofit, Dio, Room Database, Hive Database, and Firebase to bring projects to life while successfully managing remote work and studies.
+As a Mobile App Developer at Accelerating Intelligence, led impactful projects including the "Daktar Lagbe" telemedicine app. Utilized Android Studio, Java, Kotlin, Flutter, Firebase to bring projects to life while managing remote work and studies. 📊
 
-#### Technologies Used
-Android Studio, Java, Kotlin, Flutter, Retrofit, Dio, Room Database, Hive Database, Firebase
+**Technologies Used:** Android Studio, Java, Kotlin, Flutter, Retrofit, Dio, Room Database, Hive Database, Firebase.
 
 <br>
 
