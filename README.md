@@ -101,13 +101,14 @@ Currently training as a Full Stack Developer at BJIT Academy. Eager to expand ME
 Html, CSS, JavaScript,  MongoDB, Express.js, React, and Node.js.
 
 <br>
+
 ### Accelerating Intelligence, Mobile App Developer
 *August 2021 - July 2022*
 
 As a Mobile App Developer at Accelerating Intelligence, I led mobile development projects, collaborating with diverse teams to create impactful applications. Notably, I contributed significantly to "Daktar Lagbe," a pioneering telemedicine app. I skillfully utilized Android Studio, Java, Kotlin, Flutter, Retrofit, Dio, Room Database, Hive Database, and Firebase to bring projects to life while successfully managing remote work and studies.
 
 #### Technologies Used
-Android Studio, Java, Kotlin, Flutter, Retrofit, Dio, Room Database, Hive Database, Firebase.
+Android Studio, Java, Kotlin, Flutter, Retrofit, Dio, Room Database, Hive Database, Firebase
 
 <br>
 
