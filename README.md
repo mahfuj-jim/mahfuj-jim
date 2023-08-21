@@ -17,7 +17,7 @@ Mahfuj Ahmed Jim</a></h1>
 
 - 📫 How to reach me **mahfuj.jim2@gmail.com**
 
-- 📄 Know about my experiences <a href="https://mahfuj-jim.github.io/" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://mahfuj-jim.github.io/" target="_blank">Resume</a>
 
 <br>
 
