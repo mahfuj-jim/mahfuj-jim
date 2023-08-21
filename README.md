@@ -165,13 +165,13 @@ An application that tracks, manages, and splits bills among friends, housemates,
 
 ## 🏆 Achievements
 
-### Champion at Innovation Challenge Season 12
+### 🌟 Champion at Innovation Challenge Season 12
 - **Description:** Every semester, students participate in the Innovation Challenge, presenting their exceptional Capstone Projects. As a standout participant, I secured the championship, showcasing innovation and practical application in my project.
 
-### Champion at intra NSU ACM SC Hackathon (2022)
+### 🏆 Champion at intra NSU ACM SC Hackathon (2022)
 - **Description:** During the intra NSU ACM SC Hackathon, I embarked on the fascinating journey of interpreting an esoteric programming language. Not only did I interpret this intricate language, but I also skillfully implemented a substantial portion of it. This achievement highlighted my ability to tackle complex coding challenges and bring unique concepts to life.
 
-### Top 100 Semifinalist in Dhaka Region BdApps National Hackathon 2022
+### 🎉 Top 100 Semifinalist in Dhaka Region BdApps National Hackathon 2022
 - **Description:** Secured a distinguished place among the Top 100 Semifinalists in the Dhaka Region BdApps National Hackathon 2022. Successfully presented an innovative idea to judges and peers, highlighting its strong technical foundation and compelling financial viability.
 
 <br>
